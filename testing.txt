@@ -1,3 +1,6 @@
 This is the first line in main branch
 this is the second line in main branch
 Adding a 3rd line under master branch
+Adding line under fencing branch
+Adding another line under fencing branch
+
